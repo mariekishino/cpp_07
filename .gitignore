@@ -1,0 +1,18 @@
+# Compiled files
+*.o
+*.a
+*.out
+
+# Executables
+ex00
+ex01
+ex02
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Valgrind
+vgcore.*
