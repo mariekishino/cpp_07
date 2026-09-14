@@ -1,8 +1,6 @@
 #include "Whatever.hpp"
-
 #include <iomanip>
-#include <iostream>
-#include <string>
+
 
 static void testInt(void)
 {
